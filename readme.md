@@ -12,4 +12,6 @@ npm run open
 
 npm run open
 
-[Report SUmmar](https://docs.google.com/document/d/1FEZkNmxr_MsWlgr3nTLp9O4apDttinkizqyE-QIwr3o/edit?usp=sharing)
+[Report Summary](https://docs.google.com/document/d/1FEZkNmxr_MsWlgr3nTLp9O4apDttinkizqyE-QIwr3o/edit?usp=sharing)
+
+[Daraz test scenario] (https://docs.google.com/spreadsheets/d/1AESDIDF8ScpIvVCelzR-4JSgR6jojblNDSsoSCb5iik/edit?usp=sharing)
