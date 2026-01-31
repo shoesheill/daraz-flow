@@ -12,12 +12,16 @@ npm run open
 
 npm run open
 
-Please click on the link for Test scenario for given question
+
+## Here is the solution for provided question, I have attached files respectively for answers from my side
+
+
+Please click on the link below for Test scenario for given question
 
 [Daraz Test Scenario – Google Sheet](https://docs.google.com/spreadsheets/d/1AESDIDF8ScpIvVCelzR-4JSgR6jojblNDSsoSCb5iik/edit?usp=sharing)
 
 
-Please Click on the followinf link for Bug report and API testing related question
+Please Click on the following link for Bug report and API testing related question
 
 [Bug Report Summary](https://docs.google.com/document/d/1FEZkNmxr_MsWlgr3nTLp9O4apDttinkizqyE-QIwr3o/edit?usp=sharing)
 
