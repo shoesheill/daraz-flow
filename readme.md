@@ -4,7 +4,7 @@
 ```bash
 npm install
 ```
-## run the project
+## Run the project
 ```bash
 npm run open
 ```
